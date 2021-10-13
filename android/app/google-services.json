@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456869274843",
+    "firebase_url": "https://gruapp-f4109.firebaseio.com",
+    "project_id": "gruapp-f4109",
+    "storage_bucket": "gruapp-f4109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456869274843:android:e0ecca62bc60f32d7758fe",
+        "android_client_info": {
+          "package_name": "com.lawdians.gru_wallet_rn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456869274843-csc4lcduri59gi9bi4c62h4tuo8ssjmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU4LXzAeIKZziEAt2j-hBoU5kwpKtGU_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456869274843-csc4lcduri59gi9bi4c62h4tuo8ssjmb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456869274843-9mlbdnahp8ih7bpkvmd3et0u1dlovlli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lawdians.gruIOS-rn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

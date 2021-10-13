@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">그루</string>
+
+    <!-- code-push settings -->
+    <string moduleConfig="true" name="CodePushDeploymentKey">vjaA9fwxlw7wpHJeQvZux7K4MAMsy3iB3R7SI</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>
